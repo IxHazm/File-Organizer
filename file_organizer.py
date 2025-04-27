@@ -1,10 +1,7 @@
 import os
 import shutil
-import tkinter as tk
 import customtkinter as ctk
 from tkinter import filedialog, messagebox
-import subprocess  
-
 
 ctk.set_appearance_mode("Dark") 
 ctk.set_default_color_theme("blue") 
